@@ -1,2 +1,3 @@
 Hello.Git
-This is my remote change
+This is my remote change.
+This is my first local change.
